@@ -1,0 +1,18 @@
+# Ignore Folders
+/logs
+/files
+/data_augmented/train
+/data_augmented/test
+/data/image
+/data/mask
+/data/trash
+/results
+/results_realdata
+
+#Ignore testing folder
+/trash
+
+# Ignore IDE specific files
+.idea/
+/.vscode
+/__pycache__
